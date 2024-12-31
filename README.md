@@ -13,8 +13,7 @@ This repository contains the source code for the personal CV website of Gourab P
 
 ## Technologies Used
 
-- **HTML5**: Structure and content.
-- **CSS3**: Styling and layout.
+- **HTML5**: Structure, Content, Styling and layout.. 
 - **GitHub Pages**: For hosting (if enabled).
 
 ## Files Included
