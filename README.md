@@ -13,25 +13,25 @@ This repository contains the source code for the personal CV website of Gourab P
 
 ## Technologies Used
 
-- **HTML5**: Structure, Content, Styling and layout.. 
+- **HTML5**: Structure, Content,
+- **CSS & JS**: Styling and layout.. 
 - **GitHub Pages**: For hosting (if enabled).
 
 ## Files Included
 
 - `index.html`: The main HTML file for the website.
-- `style.css`: CSS for styling (if externalized).
 - `gourab.jpg`: Profile picture.
-- `logo.png`: Logo used in the header.
+
 
 ## How to View the Website
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/paulgourab/paulgourab.github.io.git
    ```
 2. Open `index.html` in any web browser.
 
-Alternatively, if hosted on GitHub Pages, visit the live link (e.g., `https://username.github.io/repo-name`).
+Alternatively, if hosted on GitHub Pages, visit the live link (e.g., `https://paulgourab/paulgourab.github.io`).
 
 ## How to Contribute
 
